@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24971" started-at="2020-01-06T07:48:45Z" finished-at="2020-01-06T07:49:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24971" started-at="2020-01-06T07:48:45Z" finished-at="2020-01-06T07:49:10Z">
+      <class name="com.lapa.google.scripts.GoogleSearchTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.lapa.google.scripts.GoogleSearchTest@68c4039c]" name="openBrowser" is-config="true" duration-ms="11531" started-at="2020-01-06T07:48:45Z" finished-at="2020-01-06T07:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:com.lapa.google.scripts.GoogleSearchTest@68c4039c]" name="googleSearch" duration-ms="12751" started-at="2020-01-06T07:48:56Z" finished-at="2020-01-06T07:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.lapa.google.scripts.GoogleSearchTest@68c4039c]" name="closeBrowser" is-config="true" duration-ms="673" started-at="2020-01-06T07:49:09Z" finished-at="2020-01-06T07:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.lapa.google.scripts.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
